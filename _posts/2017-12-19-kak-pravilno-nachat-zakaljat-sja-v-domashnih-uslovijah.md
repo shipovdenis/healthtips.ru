@@ -6,7 +6,7 @@ navigation: True
 title: Как правильно начать закаляться в домашних условиях?
 date: 2017-12-19
 tags:
-class: post-template
+class: post-templates
 subclass: 'post'
 ---
 
